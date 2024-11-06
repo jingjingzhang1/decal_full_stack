@@ -1,0 +1,9 @@
+IN terminal:
+1. mongod
+2. cd /Users/jingjingzhang/Desktop/DecalFullStack/Berkeley-Full-Stack-Development/project2/backend
+3. npm start
+
+new window:
+1. cd /Users/jingjingzhang/Desktop/DecalFullStack/Berkeley-Full-Stack-Development/project2/my-todo-app 
+2. npm run dev
+3. http://localhost:5173/
